@@ -1,0 +1,13 @@
+torch>=2.0.0
+transformers>=4.35.0
+datasets>=2.14.0
+accelerate>=0.24.0
+peft>=0.6.0
+bitsandbytes>=0.41.0
+fastapi>=0.104.0
+uvicorn>=0.24.0
+streamlit>=1.28.0
+pandas>=2.0.0
+pyyaml>=6.0
+tqdm>=4.66.0
+sentencepiece>=0.1.99
